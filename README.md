@@ -1,4 +1,6 @@
 # Movies Finder App  
+![303shots_so](https://github.com/user-attachments/assets/1c1e95a5-c72f-4410-b81c-753e3a7b0f5b)
+
 
 ## Overview  
 The **Movies Finder App** is a sleek, modern application that allows users to explore a vast collection of movies. It fetches data from **The Movie Database (TMDB)** using its powerful API to provide up-to-date information about trending, upcoming, and popular movies.  
